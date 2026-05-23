@@ -1,0 +1,6 @@
+{
+  "name": "VibeStudy",
+  "description": "An all-in-one student productivity app designed to help you focus, plan, revise smarter, and track your stats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
